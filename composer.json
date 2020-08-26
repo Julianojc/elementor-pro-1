@@ -1,0 +1,16 @@
+{
+    "name": "vzdravkovic/elementor-pro",
+    "description": "",
+    "keywords": ["wordpress", "plugin"],
+    "homepage": "https://github.com/vzdravkovic/elementor-pro.git",
+    "authors": [
+      {
+        "name": "Elementor",
+        "homepage": "https://elementor.com/"
+      }
+    ],
+    "type": "wordpress-plugin",
+    "require": {
+      "php": ">=7.1"
+    }
+  }
